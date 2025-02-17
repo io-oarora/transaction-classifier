@@ -1,4 +1,4 @@
-package za.co.aerizon.transactionclassifier;
+package com.oarora.transactionclassifier;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -25,3 +25,6 @@ replay_pid*
 
 # iOS
 .DS_Store
+
+# JetBrains
+.idea/
